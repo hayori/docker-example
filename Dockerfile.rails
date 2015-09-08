@@ -14,7 +14,6 @@ RUN apt-get update && \
       libyaml-dev \
       sqlite3 \
       libsqlite3-dev \
-      ruby-sqlite3 \
       ruby2.1-dev \
       ruby=1:2.1.5+deb8u1 \
       nodejs=0.10.29~dfsg-2 && \
